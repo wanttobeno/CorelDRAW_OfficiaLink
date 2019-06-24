@@ -1,11 +1,23 @@
 
 ### 说明
 
-想下载使用个CorelDRAW，结果一堆都是思杰马，怕有监听软件。一定要用Corel官方签名的。
+CorelDRAW官方版本下载，非思马打包版。
 
-![jack](./jack.jpg)
 
-这里应该是后期重新打包的，CorelDRAW X6在2012就出了。
+##### CoreDRAW X4 英文版
+
+这个版本在国内被思马打的片甲不留了，找个正版的下载地址都没有，官方的链接挂了。
+
+CorelDRAWGraphicsSuiteX4Installer_EN.exe  2008年1月15日 0:18:07
+
+
+[非官方下载地址 298MB](https://uploadrar.com/8o1fbrce3ndc)
+
+数字签名2008年10月4日 5:12:01
+[官方SP1升级包](http://www.corel.com/akdlm/6763/downloads/CorelDRAW/CorelGRAPHICSSUITE/X4/CGSX4SP1.exe)
+
+数字签名2008年12月18日 6:02:47
+[官方SP2升级包](http://www.corel.com/akdlm/6763/downloads/CorelDRAW/CorelGRAPHICSSUITE/X4/CGSX4SP2.exe)
 
 
 ##### CorelDRAW X5 英文版
@@ -23,9 +35,9 @@
 ![officeX6.jpg](./officeX6.jpg)
 
 ##### CorelDRAW X7 简体中文版
-
+数字签名2014年6月8日 0:21:58
 官方下载地址：
-[32位下载](http://www.corel.com/akdlm/6763/downloads/free/trials/GraphicsSuite/X7/CorelDRAWGraphicsSuiteX7Installer_CS32Bit.exe)       [64位下载](http://www.corel.com/akdlm/6763/downloads/free/trials/GraphicsSuite/X7/CorelDRAWGraphicsSuiteX7Installer_CS64Bit.exe)
+[32位下载468MB](http://www.corel.com/akdlm/6763/downloads/free/trials/GraphicsSuite/X7/CorelDRAWGraphicsSuiteX7Installer_CS32Bit.exe)       [64位下载](http://www.corel.com/akdlm/6763/downloads/free/trials/GraphicsSuite/X7/CorelDRAWGraphicsSuiteX7Installer_CS64Bit.exe)
 
 
 ![officeX7.jpg](./officeX7.jpg)
