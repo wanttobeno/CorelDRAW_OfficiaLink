@@ -10,6 +10,8 @@ CorelDRAW官方版本下载，非思马打包版。
 
 CorelDRAWGraphicsSuiteX4Installer_EN.exe  2008年1月15日 0:18:07
 
+[Corel DRAW Graphics Suite X4.rar 1.9G](https://drive.google.com/uc?id=1spHa0JvAPpgtW7Hl1UWAPp5q6psgMCsU&export=download)
+
 
 [非官方下载地址 298MB](https://uploadrar.com/8o1fbrce3ndc)
 
@@ -55,3 +57,23 @@ CorelDRAWGraphicsSuiteX4Installer_EN.exe  2008年1月15日 0:18:07
 有链接保护，使用官方下载器下载和安装。
 
 [下载器地址](http://www.corel.com/akdlm/6763/downloads/free/trials/GraphicsSuite/2019/R5tgO2Wx1/CorelDRAWGraphicsSuite2019Installer_RW.exe)
+
+
+##### CorelDRAW 2020 官方版
+
+获取带token的下载地址方法
+
+POST 接口： http://www.installportal.com/v1/token
+
+参数：http://www.corel.com/akdlm/6763/downloads/pd/esd/GraphicsSuite/2020/stub/trial2020/CorelDRAWGraphicsSuite2020Installer_zh64Bit.zip
+
+有链接保护，使用官方下载器下载和安装。
+
+[下载地址] (https://www.corel.com/akdlm/6763/downloads/free/trials/GraphicsSuite/2020/F4g6tt98/CDGS2020.exe)
+
+数字签名2020年05月27日 9:26:42 
+
+![office2020.jpg](./office2020.jpg)
+
+
+
