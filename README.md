@@ -3,6 +3,7 @@
 
 CorelDRAW官方版本下载，非思马打包版。
 
+## Mac版本在后面
 
 ##### CoreDRAW X4 英文版
 
@@ -22,12 +23,21 @@ CorelDRAWGraphicsSuiteX4Installer_EN.exe  2008年1月15日 0:18:07
 [官方SP2升级包](http://www.corel.com/akdlm/6763/downloads/CorelDRAW/CorelGRAPHICSSUITE/X4/CGSX4SP2.exe)
 
 
+
+```java
+////
+```
+
 ##### CorelDRAW X5 英文版
 
 官方下载地址：
 [下载](http://www.corel.com/akdlm/6763/downloads/trials/GraphicsSuiteX5/3in1/CorelDRAWGraphicsSuiteX5Installer_EN.exe)
 
 迅雷下载下来是X7的英文版
+
+```java
+////
+```
 
 ##### CorelDRAW X6 简体中文版
 
@@ -45,20 +55,32 @@ CorelDRAWGraphicsSuiteX4Installer_EN.exe  2008年1月15日 0:18:07
 ![officeX7.jpg](./officeX7.jpg)
 
 
+```java
+////
+```
+
 ##### CorelDRAW 2017 官方版
 
-有链接保护，使用官方下载器下载和安装。
+```
+19.0.0.328 零售版镜像：http://www.corel.com/akdlm/6763/downloads/ELD/CDGS/2017/CorelDRAWGraphicsSuite2017Installer-EN_DE_FR_IT_NL_ES_BR_CZ_PL_RU_CT_CS_JP_TR.iso
 
-[下载器地址](http://www.corel.com/akdlm/6763/downloads/free/trials/GraphicsSuite/2017/CorelDRAWGraphicsSuite2017Installer_RW.exe)
+19.1.0.419 Update 1：http://www.corel.com/akdlm/6763/downloads/free/patches/CorelDraw/GraphicsSuite/2017/CDGS2017U1.exe
 
+19.1.0.434 Update：https://www.corel.com/akdlm/6763/downloads/free/patches/CorelDraw/GraphicsSuite/2017/CDGS2017WheelAddon.exe
+```
 
 ##### CorelDRAW 2019 官方版
 
 有链接保护，使用官方下载器下载和安装。
 
-[下载器地址](http://www.corel.com/akdlm/6763/downloads/free/trials/GraphicsSuite/2019/R5tgO2Wx1/CorelDRAWGraphicsSuite2019Installer_RW.exe)
+[CorelDRAWGraphicsSuite2019Installer_RW.exe 下载器地址](http://www.corel.com/akdlm/6763/downloads/free/trials/GraphicsSuite/2019/R5tgO2Wx1/CorelDRAWGraphicsSuite2019Installer_RW.exe)
 
+数字签名2019年05月15日 3:33:15 
+![office2019.jpg](./office2019.jpg)
 
+```java
+////
+```
 ##### CorelDRAW 2020 官方版
 
 ```
@@ -71,11 +93,45 @@ POST 接口： http://www.installportal.com/v1/token
 
 有链接保护，使用官方下载器下载和安装。
 
-[下载器地址] (https://www.corel.com/akdlm/6763/downloads/free/trials/GraphicsSuite/2020/F4g6tt98/CDGS2020.exe)
+[CorelDRAWGraphicsSuite2020Installer_RW.exe 下载器地址] (https://www.corel.com/akdlm/6763/downloads/free/trials/GraphicsSuite/2020/F4g6tt98/CDGS2020.exe)
 
 数字签名2020年05月27日 9:26:42 
 
 ![office2020.jpg](./office2020.jpg)
+
+
+##### CorelDRAW 2021官方版
+
+
+[CDGS2021.exe])(https://www.corel.com/akdlm/6763/downloads/free/trials/GraphicsSuite/2021/5gu8DC39/CDGS2021.exe)
+
+
+```java
+////
+```
+
+#### MacOS
+
+##### CorelDraw_11_mac
+
+124.76MB	 Mac OS X 10.9 or later.
+
+http://54.36.174.160/OceanofDMG.com/CorelDraw_11_mac.zip?md5=5kF23FfQgiCdo3RuIdHQUw&expires=1613606661
+
+##### 官方下载器 CorelDRAWGraphicsSuite2019Installer_zh.pkg
+
+[CorelDRAW 2019 ](./CorelDRAWGraphicsSuite2019Installer_zh.pkg)
+
+
+##### CorelDRAW_2019_v21.0.0.593_MUL.dmg
+
+1.58GB
+
+http://54.36.174.160/OceanofDMG.com/CorelDRAW_2019_v21.0.0.593_MUL.dmg?md5=oIT72M2hT-xf-4IzAijZUQ&expires=1613606700
+
+
+##### CorelDRAW_2019_v21.2.0.708_MUL.dmg
+1.56GB
 
 
 
