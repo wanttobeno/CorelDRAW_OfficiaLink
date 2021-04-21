@@ -5,6 +5,16 @@ CorelDRAW官方版本下载，非思马打包版。
 
 ## Mac版本在后面
 
+##### CorelDRAW Win10 兼容性问题 --> CDR菜单白屏
+Win10安装后，顶部菜单栏白屏，CorelDRAW X7以上版本不会出现这个问题
+
+解决方法：把MenuPatch_32.cpg、MenuPatch_64.cpg复制到下面目录,Plugin不存在的话，自己建一个。
+
+```
+32位：\CorelDRAW Graphics Suite X6\Draw\Plugins
+64位：\CorelDRAW Graphics Suite X6\Draw\Plugins64
+```
+
 ##### CoreDRAW X4 英文版
 
 这个版本在国内被思马打的片甲不留了，找个正版的下载地址都没有，官方的链接挂了。
@@ -45,6 +55,7 @@ CorelDRAWGraphicsSuiteX4Installer_EN.exe  2008年1月15日 0:18:07
 [32位下载](http://www.corel.com/akdlm/6763/downloads/free/trials/GraphicsSuite/X6.1/CorelDRAWGraphicsSuiteX6Installer_CS32Bit.exe)       [64位下载](http://www.corel.com/akdlm/6763/downloads/free/trials/GraphicsSuite/X6.1/CorelDRAWGraphicsSuiteX6Installer_CS64Bit.exe)
 
 ![officeX6.jpg](./officeX6.jpg)
+
 
 ##### CorelDRAW X7 简体中文版
 数字签名2014年6月8日 0:21:58
